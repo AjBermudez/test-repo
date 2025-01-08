@@ -1,0 +1,6 @@
+#img1 {
+    width: 100px;
+    postion: absolute;
+    right: 300px;
+    top: 200px
+    z-index: 1;
